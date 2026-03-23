@@ -1,8 +1,8 @@
-# ☕ Java Programming - University of Helsinki (Full Completion)
+# ava Programming - University of Helsinki (Full Completion)
 
 Este repositorio contiene mis soluciones a los ejercicios del prestigioso curso **Java Programming I & II** de la Universidad de Helsinki (**MOOC.fi**). He completado los **170 ejercicios** del programa, cubriendo desde los fundamentos hasta el desarrollo de aplicaciones avanzadas.
 
-## 🚀 Tecnologías y Conceptos Dominados
+## Tecnologías y Conceptos Dominados
 
 A través de este curso, he desarrollado una base sólida en el desarrollo de software con Java, enfocándome en:
 
@@ -13,21 +13,21 @@ A través de este curso, he desarrollado una base sólida en el desarrollo de so
 * **Desarrollo Visual:** Creación de interfaces gráficas y videojuegos dinámicos (Asteroids) utilizando **JavaFX**.
 * **Clean Code:** Escritura de código legible, organizado y siguiendo las convenciones oficiales de Java.
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 | Módulo | Contenido Principal | Estado |
 | :--- | :--- | :--- |
-| **Part 01-07** | Fundamentos, lógica, listas y objetos básicos. | ✅ **Completado** |
-| **Part 08-14** | JavaFX, Bases de Datos SQL, Streams y Redes. | ✅ **Completado** |
+| **Part 01-07** | Fundamentos, lógica, listas y objetos básicos. | **Completado** |
+| **Part 08-14** | JavaFX, Bases de Datos SQL, Streams y Redes. | **Completado** |
 
-## 🛠️ Herramientas y Entorno
+## Herramientas y Entorno
 * **Lenguaje:** Java 11 / 17
 * **Entorno:** VS Code / NetBeans con extensión **TMC (Test My Code)**
 * **Tecnologías:** JavaFX, Maven, H2 Database Engine
 
 ---
 
-## 🏆 Certificaciones
+## Certificaciones
 * **Certificado Parte I:** Obtenido en Enero 2026.
 * **Certificado Parte II:** Obtenido en Enero 2026.
 
