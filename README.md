@@ -1,4 +1,4 @@
-# ava Programming - University of Helsinki (Full Completion)
+# Java Programming - University of Helsinki (Full Completion)
 
 Este repositorio contiene mis soluciones a los ejercicios del prestigioso curso **Java Programming I & II** de la Universidad de Helsinki (**MOOC.fi**). He completado los **170 ejercicios** del programa, cubriendo desde los fundamentos hasta el desarrollo de aplicaciones avanzadas.
 
